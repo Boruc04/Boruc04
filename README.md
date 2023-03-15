@@ -1,4 +1,2 @@
 - 👋 Hi, I'm Michał, I've been coding for a decade. Trying to understand why we complicate matters so much.
 - 👀 I'm interested in technologies, mainly MSFT stack, but I'm always eager to learn new things.
-- 👫 Have the best wife / friend in the world.
-- 🐕 The owner of a dog named Kreska.
