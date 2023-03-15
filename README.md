@@ -1,2 +1,2 @@
-- 👋 Hi, I'm Michał, I've been coding for a decade. Trying to understand why we complicate matters so much.
+- 👋 Hi, I'm Michał, I've been coding over a decade. Trying to understand why we complicate matters so much.
 - 👀 I'm interested in technologies, mainly MSFT stack, but I'm always eager to learn new things.
